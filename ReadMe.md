@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi! I'm Tien Anh, an Information Technology student passionate about web development and UI/UX design.<br>Building on a solid foundation in IT, I have developed strong skills in logical problem-solving, collaborative workflows, and creating user-centric digital experiences.<br><br>With a keen eye for detail and structure, I excel at bridging the gap between functional code and aesthetic, intuitive interfaces.<br><br>🎯 My target is to grow as a versatile developer and contribute to impactful platforms that enhance user focus and usability.<br>🌱 I'm currently learning advanced UI/UX principles and modern web frameworks to elevate my craft.
+👋 **Hi! I'm Tien Anh**, an Information Technology student passionate about web development and UI/UX design. Building on a solid foundation in IT, I have developed strong skills in logical problem-solving, collaborative workflows, and creating user-centric digital experiences. With a keen eye for detail and structure, I excel at bridging the gap between functional code and aesthetic, intuitive interfaces.
+
+🎯 **My Target:** To grow as a versatile developer and contribute to impactful platforms that enhance user focus and usability.
+
+🌱 **Currently Learning:** Advanced UI/UX principles and modern web frameworks to elevate my craft.
 
 
 ## 🌐 Socials:
