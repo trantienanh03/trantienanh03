@@ -23,11 +23,4 @@
 
 **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=trantienanh03&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=trantienanh03&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=trantienanh03&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
